@@ -19,5 +19,5 @@ Welcome to my portfolio, where I showcase data analysis projects and case studie
 **Other**: Excel
 
 👋🏻 Connect with Me  
-[LinkedIn]  
-[GitHub]
+[https://www.linkedin.com/in/mohammed-elmi-8128021a1/]  
+[https://github.com/MoElmi03/MoElmi03/]
